@@ -50,6 +50,17 @@ git clone https://github.com/ksnow-be/lem_in.git; cd lem-in; make;
 So, to vizualize the process i've made **6** viz-maps. You can find them in *`vismaps/`* folder.
 **But**, i have a special **magic [bash script](vis.sh).**
 
+Run **./vis.sh**
+```
+Also, you can run it with the flag:
+
+-bmw
+-pure
+-coal
+
+Just try.
+```
+
 ## Additional info
 
 So, this manual describes the fastest and most pleasant way to observe the execution of the algorithm. If you are not a 42 student, I think you are not interested in the details of the *`./lem-in`* programm. If you are an employee and consider this project as part of my resume - all the details of the project I will explain to you at the meeting.
