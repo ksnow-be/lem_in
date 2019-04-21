@@ -35,3 +35,6 @@ To make it easier to understand, let me explain how the program starts its work.
 ```
 ## Example of the vizualization (./lem-in < exp.amp)
 ![](https://media.giphy.com/media/5tgWLNAm8aNhkG8hDB/giphy.gif)
+
+## Additional info
+If you are not using *`-v`*
