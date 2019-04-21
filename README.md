@@ -47,7 +47,8 @@ git clone https://github.com/ksnow-be/lem_in.git; cd lem-in; make;
 ```
 
 ## Usage
-So, to vizualize the process i've made *6* viz-maps. You can find them in *`vismaps`* folder.
+So, to vizualize the process i've made **6** viz-maps. You can find them in *`vismaps/`* folder.
+**But**, i have a special **magic [bash script](vis.sh).**
 
 ## Additional info
 
