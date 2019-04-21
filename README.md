@@ -41,9 +41,13 @@ First, install SDL.h
 ```
 brew install sdl2; brew install sdl2_gfx;
 ```
+Then, run this:
 ```
 git clone https://github.com/ksnow-be/lem_in.git; cd lem-in; make;
 ```
+
+## Usage
+So, to vizualize the process i've made *6* viz-maps. You can find them in *`vismaps`* folder.
 
 ## Additional info
 
