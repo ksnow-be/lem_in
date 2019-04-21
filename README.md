@@ -36,5 +36,16 @@ To make it easier to understand, let me explain how the program starts its work.
 ## Example of the vizualization (./lem-in < exp.amp)
 ![](https://media.giphy.com/media/5tgWLNAm8aNhkG8hDB/giphy.gif)
 
+## Install
+First, install SDL.h
+```
+brew install sdl2; brew install sdl2_gfx;
+```
+```
+git clone https://github.com/ksnow-be/lem_in.git; cd lem-in; make;
+```
+
 ## Additional info
-If you are not using *`-v`*
+
+So, this manual describes the fastest and most pleasant way to observe the execution of the algorithm. If you are not a 42 student, I think you are not interested in the details of the *`./lem-in`* programm. If you are an employee and consider this project as part of my resume - all the details of the project I will explain to you at the meeting.
+
