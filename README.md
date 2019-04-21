@@ -58,9 +58,9 @@ Run **./vis.sh**
 ```
 Also, you can run it with the flag:
 
-./lem-in -v -bmw
-./lem-in -v -pure
-./lem-in -v -coal
+./vis.sh -bmw
+./vis.sh -pure
+./vis.sh -coal
 
 Just try.
 ```
