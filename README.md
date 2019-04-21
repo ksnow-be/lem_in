@@ -46,6 +46,10 @@ Then, run this:
 git clone https://github.com/ksnow-be/lem_in.git; cd lem-in; make;
 ```
 
+
+**Project was created on the [`MacOs`], so all Makefile's rules will be runned well only on this OS. 
+If you use any of Linux distro's, you probably will face lot's of link problems. Sorry, eh!**  🇨🇦 
+
 ## Usage
 So, to vizualize the process i've made **6** viz-maps. You can find them in *`vismaps/`* folder.
 **But**, i have a special **magic [bash script](vis.sh).**
