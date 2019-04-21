@@ -12,7 +12,7 @@ To make it easier to understand, let me explain how the program starts its work.
 ```
 ## Cat exp.map
 ```
-10          //Amount of the ants
+5          //Amount of the ants
 ##start     //Establish starting room
 1 100 100   //Name of the room;     x position;       y position;
 2 400 100
@@ -33,5 +33,5 @@ To make it easier to understand, let me explain how the program starts its work.
 5-3
 5-2         //Finish connecting rooms
 ```
-
+## Example of the vizualization (./lem-in < exp.amp)
 ![](https://media.giphy.com/media/5tgWLNAm8aNhkG8hDB/giphy.gif)
